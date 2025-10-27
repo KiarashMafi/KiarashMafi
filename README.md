@@ -20,13 +20,13 @@ Improving model efficiency and exploring practical ML applications that make dat
 ### 📂 Projects
 Here are a few things I’ve worked on:
 - **[Artificial Neural Network](https://github.com/KiarashMafi/Artificial-Neural-Network)** – A simple TensorFlow-based ANN for predicting customer churn using structured banking data. 
-- **[Regression Projects]([#](https://github.com/KiarashMafi/Regression-Projects))** – Short description  
-- **[Project 3](#)** – Short description  
+- **[Regression Projects]([#](https://github.com/KiarashMafi/Regression-Projects))** – A collection of regression-analysis implementations (Simple Linear, Multiple Linear, Polynomial, Support Vector Regression) demonstrating Python data workflows and model building. 
+- **[Classification Projects](#)** – Applied common ML classifiers like Decision Tree, KNN, and Random Forest to classify social network data.
 
 ### 📫 Connect
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- GitHub: [github.com/yourusername](https://github.com/KiarashMafi)
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: you@example.com
+- Email: k.kiarashmafi@gmail.com
 
 ---
 
