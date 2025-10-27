@@ -29,8 +29,7 @@ Here are a few things I’ve worked on:
 - **[Regression Projects](https://github.com/KiarashMafi/Regression-Projects)** – A collection of regression-analysis implementations (Simple Linear, Multiple Linear, Polynomial, Support Vector Regression) demonstrating Python data workflows and model building. 
 - **[Classification Projects](#)** – Applied common ML classifiers like Decision Tree, KNN, and Random Forest to classify social network data.
 
-### 📫 ConnectI'm
-- GitHub: [github.com/KiarashMafi](https://github.com/KiarashMafi)
+### 📫 Connect
 - Telegram: [https://t.me/mafiov](https://t.me/mafiov)
 - Email: k.kiarashmafi@gmail.com
 
