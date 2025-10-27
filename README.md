@@ -2,6 +2,8 @@
 
 I'm a **Python** and **Machine Learning** programmer who believes in writing clean, simple, and effective code. I like to keep things minimal — no unnecessary complexity, no distractions — just solid, understandable logic.
 
+
+
 ### 🧠 What I Do
 - Build and experiment with **machine learning models**
 - Automate tasks and analyze data with **Python**
@@ -23,9 +25,9 @@ Here are a few things I’ve worked on:
 - **[Regression Projects](https://github.com/KiarashMafi/Regression-Projects)** – A collection of regression-analysis implementations (Simple Linear, Multiple Linear, Polynomial, Support Vector Regression) demonstrating Python data workflows and model building. 
 - **[Classification Projects](#)** – Applied common ML classifiers like Decision Tree, KNN, and Random Forest to classify social network data.
 
-### 📫 Connect
+### 📫 ConnectI'm
 - GitHub: [github.com/KiarashMafi](https://github.com/KiarashMafi)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Telegram: [https://t.me/mafiov](https://t.me/mafiov)
 - Email: k.kiarashmafi@gmail.com
 
 ---
