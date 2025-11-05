@@ -18,8 +18,8 @@ Currently studying for a B.Sc. in Computer Engineering with a focus on Python pr
 - **Languages:** Python
 - **ML/DL:** TensorFlow, PyTorch, Scikit-learn
 - **Data:** Pandas, NumPy, Matplotlib, Seaborn
-- **Tools:** Git, Docker, Jupyter, VS Code
-
+- **Tools:** Git, Docker, Jupyter
+  
 ### 🚀 Current Focus
 Improving model efficiency and exploring practical ML applications that make data useful, not just beautiful.
 
